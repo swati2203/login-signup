@@ -1,0 +1,20 @@
+[
+  {
+    "name": "swati",
+    "password": "swati@23",
+    "contact": "9625457605",
+    "email": "swati@gmail.com"
+  },
+  {
+    "name": "shreya",
+    "password": "shreya@26",
+    "contact": "3456127898",
+    "email": "shreya@gmail.com"
+  },
+  {
+    "name": "sejal",
+    "password": "sejal@1234",
+    "contact": "1134567689",
+    "email": "sejal@gmail.com"
+  }
+]
